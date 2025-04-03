@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChangeScan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChangeScan_jar</output-path>
+    <root id="archive" name="ChangeScan.jar">
+      <element id="module-output" name="ChangeScan" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/william-hood/boolog-kotlin/3.1.0/boolog-kotlin-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/2.1.20/kotlin-reflect-2.1.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/william-hood/toolbox-kotlin/3.1.1/toolbox-kotlin-3.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
