@@ -1,7 +1,6 @@
-<img align="left" src="examples/ChangeScan.gif">
-
 # ChangeScan
 
+<img align="left" src="examples/ChangeScan.gif">
 
 **Release 3.1** - A program that can tell you what has changed on a computer's
 file system. It is the spiritual successor of a JavaScript program I created many years ago for
@@ -14,8 +13,9 @@ what changed.
   - For license information: `java -jar ChangeScan.jar license`
   - Latest release is available to the right under **[Releases](https://github.com/william-hood/ChangeScan/releases)**.
 <br>
-<br>
+
 ---
+
 ```
 $ java -jar ChangeScan.jar
 Change Scan - © 2020, 2023, 2025 William Arthur Hood
@@ -41,6 +41,7 @@ RUN THIS PROGRAM WITH ADMINISTRAIVE PRIVILEDGES.
 * Save the console output with LOG <output filename>
 ```
 ---
+
 ```
 $ java -jar ChangeScan.jar EXAMPLES
 Create baseline or scan a 2nd time (use a different filename)
@@ -99,6 +100,6 @@ OTHER DEALINGS IN THE SOFTWARE.*
 
 
 ## Contact Information
-https://www.linkedin.com/in/william-a-hood-sdet-pdx/
+https://www.linkedin.com/in/william-a-hood-pdx/
 
 william.arthur.hood@gmail.com
